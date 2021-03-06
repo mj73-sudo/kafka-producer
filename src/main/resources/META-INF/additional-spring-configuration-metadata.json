@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "app.kafka.url",
+      "type": "java.lang.String",
+      "description": "kafka url."
+  }
+] }

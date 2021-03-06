@@ -1,0 +1,3 @@
+app:
+  kafka:
+    url: localhost:9092
